@@ -91,4 +91,4 @@ attributes:
         cask_apps:
             - vlc
             - microsoft-office
-            -java
+            - java
