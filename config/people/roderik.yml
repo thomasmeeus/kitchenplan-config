@@ -91,30 +91,5 @@ attributes:
             include_sudoers_d: true
     homebrewalt:
         cask_apps:
-            - google-drive
-            - things
-            - dropbox
-            - evernote
-            - istat-menus
-            - kaleidoscope
-            - alfred
-            - totalfinder
-            - spotify
-            - bartender
-            - hazel
-            - sonos
-            - caffeine
-            - tower
             - vlc
-            - handbrake
-            - slack
-            - flashlight
-            - couleurs
-            - vagrant-manager
-            - cord
-            - vagrant
-            - vmware-fusion
-            - virtualbox
-            - evernote
-            - superduper
             - microsoft-office
