@@ -5,8 +5,6 @@ recipes:
     global:
         - dotfiles::sshconfig
     mac_os_x:
-        - applications::omnigraffle
-        - applications::launchrocket
         - sudoalt::default
         - osxdefaults::dock_automatically_hide_and_show_the_dock
         - osxdefaults::dock_do_not_animate_opening_applications_from_the_dock
@@ -93,3 +91,4 @@ attributes:
         cask_apps:
             - vlc
             - microsoft-office
+            -java
