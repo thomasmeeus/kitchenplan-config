@@ -64,7 +64,7 @@ attributes:
     dotfiles:
         vimusers:
             - root
-            - roderik
+            - admin
         kdeploy:
             hostname: dev
         vim:
@@ -77,14 +77,14 @@ attributes:
                 - nerdtree: https://github.com/scrooloose/nerdtree.git
                 - vim-css-color: https://github.com/ap/vim-css-color
     git:
-        name: Roderik van der Veer
-        email: roderik.van.der.veer@kunstmaan.be
+        name: KUNSTMAAN
+        email: support@kunstmaan.be
     osxdefaults:
-        computername: Spektr
+        computername: KM-0000
     authorization:
         sudo:
             users:
-                - roderik
+                - admin
             passwordless: true
             include_sudoers_d: true
     homebrewalt:
