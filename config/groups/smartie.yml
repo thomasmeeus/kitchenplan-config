@@ -5,6 +5,7 @@ recipes:
         - applications::php56
         - applications::skylab
         - applications::kms
+        - applications::mod_jk
         - applications::ssh_config
         - dotfiles::bash_it
         - dotfiles::inputrc
