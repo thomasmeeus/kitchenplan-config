@@ -54,9 +54,12 @@ attributes:
             - rsync
             - mongodb
             - elasticsearch
+            - bash-completion
         cask_apps:
             - imageoptim
             - imagealpha
+            - slack
+            - java6
     nodejs:
         apps:
             - uglify-js
@@ -73,10 +76,3 @@ attributes:
     php-apps:
         - composer
         - php56-mongo
-    postfix:
-        domain: "kunstmaan.be"
-    homebrewalt:
-        cask_apps:
-            - slack
-        apps:
-            - bash-completion
