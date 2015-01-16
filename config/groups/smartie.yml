@@ -67,6 +67,7 @@ attributes:
             - bower
             - grunt
             - grunt-cli
+            - gulp
     gems:
         - sass
         - git-up
