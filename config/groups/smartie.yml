@@ -60,6 +60,7 @@ attributes:
             - imagealpha
             - slack
             - java6
+            - google-hangouts
     nodejs:
         apps:
             - uglify-js
